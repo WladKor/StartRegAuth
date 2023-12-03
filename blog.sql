@@ -55,8 +55,7 @@ CREATE TABLE `users` (
 
 INSERT INTO `users` (`id`, `username`, `password`, `email`, `date_registered`) VALUES
 (1, 'Vlad', '$2y$10$hPf5IaQQvao0iBiHQgLa3eEj5ziOmppc2gPgB/NMp5I9aaMVhMWae', 'Vlad@mail.ru', '2023-12-03 12:10:48'),
-(2, 'Vlad', '$2y$10$cpPIT7/rzTkGnaRCOPepROY2PKaruY7dUb0lnQov/Wzegn8lk/iv6', 'Vladt@mail.ru', '2023-12-03 12:12:16'),
-(3, 'Igor', '$2y$10$6iUJifzb5x2NiQxdgvEThu6N30wV85EothFoDukYOAw8/iu8liL8G', 'wlad666@gmail.com', '2023-12-03 12:21:19');
+(2, 'Igor', '$2y$10$6iUJifzb5x2NiQxdgvEThu6N30wV85EothFoDukYOAw8/iu8liL8G', 'wlad666@gmail.com', '2023-12-03 12:21:19');
 
 --
 -- Индексы сохранённых таблиц
